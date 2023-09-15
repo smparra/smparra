@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+Welcome to my profile! 🥳
+
+I am a fifth year Computer Science student with a passion for Data Analysis and Data Science! 💻 
 
 <!--
 **smparra/smparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
