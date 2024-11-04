@@ -2,7 +2,7 @@
 
 Welcome to my profile! 🥳
 
-I am a fifth year Computer Science student with a passion for Data Analysis and Data Science! 💻 
+Computer Science undergrad with a Data Science minor from UBC. Passionate about driving insights through data analysis and thriving in the dynamic world of re/insurance. Enjoys risk management and client-facing engagements, combining technical expertise with strategic industry involvement. 💻 
 
 <!--
 **smparra/smparra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
